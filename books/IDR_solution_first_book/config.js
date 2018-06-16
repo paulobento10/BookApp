@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":9,"title":"Guião Multimédia","author":"Paulo","fileName":"Gui_o_Multim_dia_pdf.pdf","bounds":[[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
